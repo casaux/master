@@ -1,0 +1,58 @@
+test plan --
+CC's - 10-12 CC holders
+
+BC's - 
+10-12 with most problematic BC types (CSC)
+
+
+
+
+
+repo's --
+* each phase will have a single repo
+** e.g., /mycasa-phase2, /mycasa-phase 2.1, /mycasa-phase 3
+
+
+
+Master repo:
+- /master
+-- component list
+
+
+
+
+
+
+Prototypes to build/re-build:
+
+- /mycasa-phase-2
+-- myCASA splash page (link ARN v apply for ARN)
+--- link ARN and apply for ARN sub pages
+--- profile page
+
+-- myCASA dashboard
+--- org links
+--- ReOC 
+--- RePL
+
+
+
+
+- /mycasa-phase-2.1
+-- myCASA splash page (link ARN v apply for ARN)
+--- link ARN and apply for ARN sub pages
+--- profile page
+
+-- myCASA dashboard
+--- org links
+--- ReOC 
+--- RePL
+--- drones*
+--- aircraft*
+
+
+0402 755 642
+Stewart Madigan
+
+
+
